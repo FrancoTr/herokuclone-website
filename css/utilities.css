@@ -128,7 +128,7 @@
   color: #fff;
 }
 
-.alert error {
+.alert-error {
   background-color: var(--error-color);
   color: #fff;
 }
